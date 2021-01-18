@@ -1,0 +1,3 @@
+type main + control + spacebar + enter ---> will give main method 
+Syso + control+ spacebar +enter  ----> it will give you print method
+ALT +shit +X,J   
